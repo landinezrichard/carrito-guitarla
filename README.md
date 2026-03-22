@@ -1,6 +1,6 @@
 # GuitarLA 🎸​🛒​
 
-Carrito de compras para tienda de guitarras.
+Carrito de compras para tienda de guitarras, hecho en ReactJS.
 
 Tiene las siguientes características:
 
